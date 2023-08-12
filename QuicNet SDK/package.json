@@ -1,0 +1,7 @@
+{
+  "name": "com.yahorpaulovich.quicnet-plugin-for-unity",
+  "displayName": "Quic.NET Plugin for Unity",
+  "version": "1.0.0",
+  "unity": "2022.3.5f1",
+  "description": "Quic.NET Plugin for Unity."
+}
