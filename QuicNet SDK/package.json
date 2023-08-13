@@ -1,7 +1,12 @@
 {
-  "name": "com.yahorpaulovich.quicnet-plugin-for-unity",
+  "name": "com.yahorpaulovich.quicnetforunity",
   "displayName": "Quic.NET Plugin for Unity",
+  "author": { "name": "Yahor Paulovich.", "url": "yahorpaulovich@gmail.com" },
   "version": "1.0.0",
-  "unity": "2022.3.5f1",
-  "description": "Quic.NET Plugin for Unity."
+  "unity": "2018.4",
+  "description": "Integrates Quic.NET for use in Unity.",
+  "keywords": [ "QuicClient", "QuicConnection", "QuicStream" ],
+  "license": "MIT",
+  "category": "Quic",
+  "dependencies": {}
 }
